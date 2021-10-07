@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rafflePrizes/RafflePrizes.iml" filepath="$PROJECT_DIR$/rafflePrizes/RafflePrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cloudMy.iml" filepath="$PROJECT_DIR$/.idea/cloudMy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/randonSurprise/randonSurprise.iml" filepath="$PROJECT_DIR$/randonSurprise/randonSurprise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticket/ticket.iml" filepath="$PROJECT_DIR$/ticket/ticket.iml" />
+    </modules>
+  </component>
+</project>
